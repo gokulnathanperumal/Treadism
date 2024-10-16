@@ -1,6 +1,6 @@
 # <img src="https://github.com/user-attachments/assets/79b2ac56-1bd7-45da-be18-08a86d90e584" width="5%" align="left">Treadism
 
-A **Internet of Things (IoT)** project that integrates a treadmill with an **Arduino Microcontroller** and an **Android Application**. It enables users to configure custom interval training programs and perform hands-free operations with voice control, utilizing **Bluetooth LE** for communication. This project provides a seamless and customizable workout experience, whether for fitness enthusiasts or individuals undergoing rehabilitation.
+An **Internet of Things (IoT)** project that integrates a treadmill with an **Arduino Microcontroller** and an **Android Application**. It enables users to configure custom interval training programs and perform hands-free operations with voice control, utilizing **Bluetooth LE** for communication. This project provides a seamless and customizable workout experience, whether for fitness enthusiasts or individuals undergoing rehabilitation.
 
 <img src="https://github.com/user-attachments/assets/e24b8770-d333-4715-921c-998fc3fa981b" width="22.5%">
 <img src="https://github.com/user-attachments/assets/530e36cf-cd7f-4914-84bd-20d30d727692" width="22.5%">
