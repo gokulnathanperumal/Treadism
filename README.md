@@ -1,7 +1,15 @@
-
-# Treadism
+# <img src="https://github.com/user-attachments/assets/79b2ac56-1bd7-45da-be18-08a86d90e584" width="5%" align="left">Treadism
 
 **Treadism** is a project that integrates a treadmill with an Arduino Microcontroller and an Android Mobile App. It enables users to configure custom interval training programs and perform hands-free operations with voice control, utilizing Bluetooth LE for communication. This project provides a seamless and customizable workout experience, whether for fitness enthusiasts or individuals undergoing rehabilitation.
+
+<img src="https://github.com/user-attachments/assets/95a2489d-9d04-4d69-b6aa-19602ac56017" width="33%">
+
+<img src="https://github.com/user-attachments/assets/530e36cf-cd7f-4914-84bd-20d30d727692" width="20%">
+<img src="https://github.com/user-attachments/assets/7bae28c5-72a5-4873-916c-53a4fca668ea" width="20%">
+<img src="https://github.com/user-attachments/assets/e57ed287-0293-46f2-9895-360574c22246" width="20%">
+<img src="https://github.com/user-attachments/assets/34e2d51e-f9cc-4425-b633-b65d64b6bbe3" width="20%">
+<img src="https://github.com/user-attachments/assets/e36a0ece-f240-47ca-8d67-2e03fec6eee9" width="20%">
+<img src="https://github.com/user-attachments/assets/269395de-8eb7-4b3b-9ec8-8107e1b1c9d6" width="20%">
 
 ## Features
 
